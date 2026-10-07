@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Agent</string>
+    <string name="service_desc">Voice/AI command diye onno app e tap, scroll ar open korar jonno.</string>
+</resources>
